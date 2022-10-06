@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nitish0621
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c language
-- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me guptanitish2110@gmail.com
 
 <!---
